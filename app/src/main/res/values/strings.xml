@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Please Change details.-->
+    <string name="app_name">SriFunSticker </string>
+
+    <!-- Please Change your admob details.-->
+    <string name="google_app_id">ca-app-pub-3172332584417528~2898754256</string>
+    <string name="banner">1221018331419161_1221020834752244</string>
+
+
+    <string name="app_email">iroshenzer@gmail.com</string>
+    <string name="app_licence">http://bithub.lk</string>
+    <string name="app_policy">@string/privacy_policy_link</string>
+    <string name="app_website">http://bithub.lk</string>
+
+    <string name="all_menu_report_link"></string>
+    <string name="all_menu_dmca_policy_link"></string>
+    <string name="privacy_policy_link">https://sticker.karawitacc.lk/privacy_policy.html</string>
+    <string name="all_menu_about_link"></string>
+
+
+    <string name="admin_name_string">Contact Admin</string>
+    <string name="admin_link">https://www.facebook.com/DeejENZER</string>
+
+    <string name="txt_assetsFontFolderName">All_Fonts/</string>
+
+    <string name="title_validation_error">Error with the pack</string>
+
+    <string name="permission_denied">අවසර නැත.</string>
+    <string name="if_you_dont_allow">If you do not give the necessary permissions to run the application, you will not be able to use the application.</string>
+    <string name="ok">Ok!</string>
+    <string name="online_stickers">ස්ටිකර් නිවහන</string>
+    <string name="saved_stickers">ඔබගේ ස්ටිකර් </string>
+    <string name="check_out_the_app">The best sticker app : https://play.google.com/store/apps/details?id=</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="view_webpage">වෙබ් අඩවිය </string>
+    <string name="send_email">වෙබ් තැපෑල </string>
+    <string name="privacy_policy">පෞද්ගලිකත්වය</string>
+    <string name="action_settings">සැකසුම්</string>
+    <string name="tray_image_content_description">Sticker tray icon</string>
+    <string name="more_info_button">වැඩි විස්තර</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">ස්ටිකර් විස්තර</string>
+    <string name="error_adding_sticker_pack">Unable to load sticker package. Please make sure you are using the last version of WhatsApp.</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Sticker Pack</string>
+    <string name="error">දෝෂයකි..</string>
+    <string name="server_error">සේවාදායක දෝෂයකි…</string>
+    <string name="already_added">❤ Already Add</string>
+    <string name="add_to_whatsapp">♡ Add to WhatsApp</string>
+    <string name="invalid_action">අවලංගු ක්‍රියාවකි </string>
+    <string name="invalid_3_stickers">WhatsApp වෙත එක් කිරීමට ඔබට අවම වශයෙන් ස්ටිකර් 3 ක් වත් තිබිය යුතුය..</string>
+    <string name="connection_error">අන්තර්ජාල සම්බන්ධතා දෝෂයකි…</string>
+    <string name="add_sticker">ස්ටිකර් එක් කරන්න</string>
+
+    <string name="label_brush">Brush</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Decorations</string>
+    <string name="label_eraser">Eraser</string>
+    <string name="label_text">Text</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Adjust</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="title_pack_deleted">Sticker Pack deleted</string>
+    <string name="title_are_you_sure">Are you sure?</string>
+    <string name="deleting_message">Deleting this package will also remove it from your WhatsApp app.</string>
+    <string name="not_found_image">Not Found Image…</string>
+    <string name="battert_opt_title">We\'ve recognized our app is optimized by Android\'s Doze system.</string>
+    <string name="all_menu_share_app">යෙදුම බෙදාගන්න</string>
+    <string name="all_menu_rate_5_stars">අපව තරු 5 අගයන්න</string>
+    <string name="all_menu_remove_ads">Remove Ads</string>
+    <string name="all_menu_report">වාර්තා කරන්න </string>
+    <string name="all_menu_dmca_policy">DMCA ප්රතිපත්ති</string>
+    <string name="all_menu_privacy_policy">Privacy Policy</string>
+    <string name="all_menu_about_app">යෙදුම ගැන</string>
+    <string name="all_menu_search">සොයන්න </string>
+    <string name="not_now">Not Now</string>
+
+    <string name="update_btn">Update</string>
+    <string name="an_update_is_available_with_new_features_a_faster_experince_fixes_and_more_it_typically_takes_less_than_1_minute">An update is available with new features, a faster experince, fixes and more. It typically takes less than 1 minute.</string>
+    <string name="update_for_a_faster_better_stickers_app">Update for a faster, better SriFun Sticker App</string>
+</resources>

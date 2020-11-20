@@ -1,0 +1,29 @@
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="preview_side_margin">16dp</dimen>
+    <dimen name="margin_from_tray_to_name">16dp</dimen>
+    <dimen name="sticker_pack_details_image_size">80dp</dimen>
+    <dimen name="sticker_pack_home_image_size">120dp</dimen>
+    <dimen name="sticker_pack_details_image_padding">8dp</dimen>
+    <dimen name="fading_edge_length">8dp</dimen>
+    <dimen name="sticker_pack_list_item_preview_image_size">50dp</dimen>
+    <dimen name="sticker_pack_list_item_preview_image_padding">4dp</dimen>
+    <dimen name="sticker_pack_list_item_row_dot_horizontal_padding">4dp</dimen>
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="card_cover_height">80dp</dimen>
+    <dimen name="card_title_padding">5dp</dimen>
+    <dimen name="card_price_padding_bottom">3dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+
+    <dimen name="editor_size">35dp</dimen>
+
+</resources>

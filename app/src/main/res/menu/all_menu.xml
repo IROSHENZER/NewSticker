@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/all_menu_search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+
+    <item
+        android:id="@+id/all_menu_rate"
+        android:title="@string/all_menu_rate_5_stars" />
+    <item
+        android:id="@+id/all_menu_privacy"
+        android:title="@string/all_menu_privacy_policy" />
+    <item
+
+        android:id="@+id/admin_name_string"
+        android:title="@string/admin_name_string" />
+
+
+</menu>
